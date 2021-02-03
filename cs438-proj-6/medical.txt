@@ -1,0 +1,7 @@
+Name:"John"
+Surname:"Dorian"
+Doctor:"Perry Cox"
+Hospital:"Sacred Heart"
+Address:"Rue Louis Favre, 13, 1024, Ecublens(VD)"
+Sex:"M"
+Syndrome:"Loving Decentralized Systems sooooo much."
