@@ -2,7 +2,7 @@
 
 ## DISCLAIMER:
 This work represents the joint effort of two fellow colleagues of mine and me. Please have a look at the report and slides to know more about our project.
-The code does not represent truly our coding skills: there might be some weird things and design choices, mainly due to lack of time and expertise. A code revision is definetely needed.
+The code does not represent truly our coding skills: there might be some weird things and design choices, mainly due to lack of time (tight schedule for submitting the project during exam session) and expertise. A code revision is definetely needed.
 
 ## Background:
 Hippocrates is a decentralized, distributed, storage systems for medical records.
